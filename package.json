@@ -1,0 +1,22 @@
+{
+  "name": "pro-readme-generator",
+  "version": "1.0.0",
+  "description": "A generator that automatically creates professional readme's based on user input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielArzani/PRO-readme-generator.git"
+  },
+  "author": "Daniel Arzanipour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielArzani/PRO-readme-generator/issues"
+  },
+  "homepage": "https://github.com/DanielArzani/PRO-readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
