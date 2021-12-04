@@ -24,10 +24,11 @@ const questions = () => {
     {
       //& When a liscence is chosen, the corresponding badge should appear
       //& Don't forget to add default unto
-      type: "checkbox",
+      type: "list",
       name: "projectLiscences",
-      message: "Which Liscences do you want?",
-      choices: ["MIT"],
+      message: "What kind of liscence should you project have?",
+      choices: ["MIT", "GPL", "Apache", "GNU", "BSD", "None"],
+      default: "N/A",
     },
     {
       type: "input",
