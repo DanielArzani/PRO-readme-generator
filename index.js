@@ -51,7 +51,7 @@ const questions = () => {
 };
 
 questions().then((answers) => {
-  fs.writeFile("ReadMe.md", generateMarkDown(answers), (err) => {
+  fs.writeFile("./dist/ReadMe.md", generateMarkDown(answers), (err) => {
     if (err) throw err;
   });
 });
