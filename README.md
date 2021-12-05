@@ -1,7 +1,7 @@
 
 # 
 
-![Badge](https://img.shields.io/badge/License-None-blueviolet)
+
 
 ## Description
 
@@ -10,7 +10,7 @@
 ## Table of contents
 
 + [Usage](#usage)
-+ [Liscence](#liscences)
++ [Liscence](#liscence)
 + [Contributions](#contributions)
 + [Tests](#tests)
 + [Questions](#questions)
@@ -19,9 +19,9 @@
 
 
 
-## Liscences
+## Liscence
 
-This application is covered under the None liscence
+This application is not covered under any liscence
 
 ## Contributions
 

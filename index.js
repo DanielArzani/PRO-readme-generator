@@ -22,13 +22,10 @@ const questions = () => {
       message: "How do you use your project?",
     },
     {
-      //& When a liscence is chosen, the corresponding badge should appear
-      //& Don't forget to add default unto
       type: "list",
       name: "projectLiscences",
       message: "What kind of liscence should you project have?",
       choices: ["MIT", "GPL", "Apache", "GNU", "BSD", "None"],
-      default: "N/A",
     },
     {
       type: "input",
@@ -58,9 +55,3 @@ questions().then((answers) => {
     if (err) throw err;
   });
 });
-
-// TODO: Create a function to initialize app
-// function init() {}
-
-// Function call to initialize app
-// init();
