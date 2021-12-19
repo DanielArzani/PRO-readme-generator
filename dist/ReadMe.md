@@ -1,11 +1,11 @@
 
-# 
+# ReadMe Generator
 
-![Badge](https://img.shields.io/badge/License-Apache-blueviolet)
+![Badge](https://img.shields.io/badge/License-MIT-blueviolet)
 
 ## Description
 
-
+Generates readmes
 
 ## Table of contents
 
@@ -17,23 +17,23 @@
 
 ## Usage
 
-
+Refer to readme
 
 ## Liscence
 
-This application is covered under the Apache liscence
+This application is covered under the MIT liscence
 
 ## Contributions
 
-
+Daniel
 
 ## Tests
 
-
+none
 
 ## Questions
 
-Link: www.github.com/
+[Github](www.github.com/daniel@github.io)
 
-If you need to reach me for any additional questions, you can [](mailto:)
+If you need to reach me for any additional questions, you can [daniel@gmail.com](mailto:daniel@gmail.com)
   

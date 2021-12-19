@@ -1,6 +1,5 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-//FIXME: RETURN AN EMPTY STRING IF NO BADGES ARE CHOSEN
 function renderLicenseBadge(data) {
   if (data.projectLiscences == "None") {
     return "";
@@ -54,7 +53,7 @@ ${data.projectTests}
 
 ## Questions
 
-Link: www.github.com/${data.githubUserName}
+[Github](www.github.com/${data.githubUserName})
 
 If you need to reach me for any additional questions, you can [${
     data.email
